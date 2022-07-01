@@ -1,0 +1,12 @@
+.swiper-container {
+  width: 100%;
+}
+.medium-zoom-image--opened {
+  z-index: 9999;
+  border-radius: 5px;
+}
+
+.medium-zoom-overlay {
+  z-index: 9998;
+}
+
